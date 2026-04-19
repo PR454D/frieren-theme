@@ -1,6 +1,7 @@
 # Frieren Theme
 
 Theme based on cool, pastel colors from [Frieren Beyond Journey's End](https://myanimelist.net/anime/52991/Sousou_no_Frieren?cat=anime).
+Originally a Zed Theme. Look for extra goodies in `extras/`
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
